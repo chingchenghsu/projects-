@@ -3,9 +3,9 @@
 //        sunny.reis@googlemail.com 
 //        First version,  March 20, 2015 
 //         
-//        Purpose: Calculate the median of the word numbers in sentences
-//        Promise: Ouput the median statistics to an output file 
-//        Filename: cchsu_median_cal.cc
+//        Purpose: Calculate the anagrams of one article 
+//        Promise: Ouput the anagrams of a article 
+//        Filename: my_ana2.cc 
 //**************************************************************//
 
 #include <iostream>
